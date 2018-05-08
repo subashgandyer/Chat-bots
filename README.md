@@ -6,4 +6,10 @@ Sample Screenshot of the chat bot
 ![chat bot screenshot](https://user-images.githubusercontent.com/8546369/39764638-0ef3e8d4-52ae-11e8-8f1d-e85a3aeab999.png)
 
 
-Please feel free to connect with me to run the code locally at vejeysubash@gmail.com
+
+## Important Files
+
+index.js -- Chat bot using wit.ai
+/templates -- Files used for creating an Online Ordering Client Application
+
+
