@@ -14,3 +14,12 @@ index.js -- Chat bot using wit.ai
 /templates -- Files used for creating an Online Ordering Client Application
 
 
+## Tools Used
+
+Node.js
+
+Wit.ai
+
+Heroku
+
+
