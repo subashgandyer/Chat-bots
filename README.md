@@ -10,6 +10,7 @@ Sample Screenshot of the chat bot
 ## Important Files
 
 index.js -- Chat bot using wit.ai
+
 /templates -- Files used for creating an Online Ordering Client Application
 
 
